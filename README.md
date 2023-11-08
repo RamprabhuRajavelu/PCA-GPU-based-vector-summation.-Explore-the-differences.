@@ -36,8 +36,8 @@ Save and Run the Program.
 ```
 (i)
 block.x=1023
-Name : Gokul R
-Register No : 212222230039
+Name : Ramprabhu R
+Register No : 212222040129
 #include "../common/common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
